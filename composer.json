@@ -1,0 +1,20 @@
+{
+    "name": "sunxyw/validation",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunxyw",
+            "email": "xy2496419818@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/validation": "^5.8",
+        "illuminate/translation": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sunxyw\\Validation\\": "src"
+        }
+    }
+}

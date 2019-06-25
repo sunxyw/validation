@@ -13,4 +13,9 @@ class Validator
     {
         $this->factory = new Factory($translator);
     }
+
+    public function getInstance()
+    {
+        return $this->factory;
+    }
 }

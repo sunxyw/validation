@@ -2,6 +2,7 @@
     "name": "sunxyw/validation",
     "description": "Package description here.",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "sunxyw",

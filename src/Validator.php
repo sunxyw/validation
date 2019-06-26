@@ -16,6 +16,7 @@ class Validator
 
     public function getInstance()
     {
+        return 996;
         return $this->factory;
     }
 }
